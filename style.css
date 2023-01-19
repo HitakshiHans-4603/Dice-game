@@ -41,7 +41,13 @@ p{
         height:6em;
     }
     .heading{
-        font-size: 2em;
+    color: aliceblue;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    
     }
           
         }
